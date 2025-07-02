@@ -1,4 +1,4 @@
-# Clash Royale Elixir Tracker
+# Clash Royale Elixir Tracker (LAST UPDATED DURING MY SOPHOMORE YEAR OF HIGH SCHOOL, 2022)
 
 A lightweight **OpenCV-based Elixir tracking tool** for **Clash Royale** on PC emulators (Bluestacks), automatically detecting your and your opponent’s Elixir usage in real time while providing a “winning score” estimate.
 
